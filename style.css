@@ -1,9 +1,18 @@
 ul {
-    color: aqua;
+    margin :auto;
+    line-height: 1.5;
+    color: inherit;
     background-attachment: fixed;
     text-align: inherit;
+
 }
 
 a{
     color: inherit;
+    margin :auto
+}
+
+* {
+    padding: 20px;
+    margin: 20px;
 }
