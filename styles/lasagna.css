@@ -1,0 +1,25 @@
+*{
+    line-height: 1.5;
+    outline: 1px dotted red;
+    margin: 2.5;
+    padding: 3.5;
+}
+
+.recipe-card{
+    
+    padding: 20px;
+    margin: 50px;
+
+
+} 
+.recipe-card img{
+    align-items: center;
+    width: 450px;
+    padding: 50px;
+    margin: 20px;
+}
+
+.recipe-card ul li h2{
+    font-size: 16px;
+    font: italic;
+}
